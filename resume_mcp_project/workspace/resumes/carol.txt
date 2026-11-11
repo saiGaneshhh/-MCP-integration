@@ -1,0 +1,3 @@
+Carol Diaz - Platform Engineer
+Python, FastAPI and Kubernetes clusters in production. Docker, Terraform, AWS.
+Mentored juniors on SQL performance tuning.

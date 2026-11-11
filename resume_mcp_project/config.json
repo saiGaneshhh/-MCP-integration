@@ -1,0 +1,7 @@
+{
+  "root_dir": "./workspace",
+  "allowed_extensions": [".txt", ".md", ".json"],
+  "max_file_bytes": 1000000,
+  "max_workers": 4,
+  "max_batch_size": 200
+}

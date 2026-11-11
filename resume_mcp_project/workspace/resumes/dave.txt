@@ -1,0 +1,2 @@
+Dave Lee - Engineer
+Python, FastAPI, SQL, Docker, Kubernetes, AWS. Five years of backend work.

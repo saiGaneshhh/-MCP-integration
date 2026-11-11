@@ -1,0 +1,3 @@
+Alice Chen - Backend Developer
+5 years building APIs. Strong Python, FastAPI and SQL (PostgreSQL).
+Deployed services with Docker on AWS.
